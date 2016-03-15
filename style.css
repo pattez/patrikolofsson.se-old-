@@ -1,0 +1,176 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Candal);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+ul li {
+	display: inline;
+	list-style-type: none;
+	margin: 14px;
+}
+
+.navbar-brand {
+	color:white;
+	font-family: Lobster;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+	font-size: 23px;
+	font-family: Lobster;
+}
+
+.nav.navbar-nav.navbar-right > li > a:hover {
+	background-color:#0070b0;
+	color: #222222;
+}
+
+.navbar {
+	background-color: #0070b0;
+}
+
+#footer {
+	background-color: #0070b0;
+	padding: 25px;
+}
+	
+#section {
+	padding-top: 130px;
+	padding-bottom: 130px;
+}
+
+
+.fa-github {
+	color:black;
+	margin: 10px;
+}
+
+.fa-linkedin {
+	color: black;
+	margin: 10px;
+}
+
+.fa-youtube, .fa-youtube-square {
+	margin: 10px;
+	color: #bb0000;
+} 
+
+#Namn {
+	font-size: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-family: Lobster;
+}
+
+/* p {
+    line-height: 28px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    font-family: Arial;
+    font-style: italic;
+} */
+
+.centered {
+    text-align: center;
+}
+
+#pTitle p {
+	font-size:20px;
+	font-family: Candal;
+	font-style: oblique;
+	line-height: 28px;
+}
+
+#pText p {
+	font-size: 13px;
+	font-family: Candal;
+	font-style: normal;
+	line-height: 28px;
+}
+
+#pTitleDatum p {
+	line-height: 28px;
+	font-size:20px;
+	font-family: Candal;
+	font-style: oblique;
+}
+
+#pTextDatum p {
+	line-height: 28px;
+	font-size: 13px;
+	font-family: Candal;
+}
+
+#pInfo {
+	font-family: Candal;
+	font-size: 15px;
+}
+
+#border-style {
+	border-style: solid;
+	border-width: 2px;
+}
+
+#Title {
+	font-family: Candal;
+	font-size: 15px;
+	color: black;
+}
+
+
+#ProjektInfo {
+	font-family: Montserrat;
+	font-size: 13px;
+	color: black;
+}
+
+hr.style-seven {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+
+}
+
+hr.style-seven:before { 
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+    font-family: Montserrat;
+    font-size:15px;
+}
+
+#intro {
+	font-size:15px;
+	font-family: Montserrat;
+}
+
+#pContact {
+	font-family: Candal;
+	font-size: 17px;
+}
+
+#pText li {
+	font-family: Calibri;
+	font-size: 15px;
+	font-style: italic;
+}
+
+
+
+
+
